@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
             seedColor: const Color.fromARGB(112, 333, 222, 100)),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'TeabitoApp'),
+      home: const MyHomePage(title: 'Teabito am App'),
     );
   }
 }
